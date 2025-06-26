@@ -1,6 +1,6 @@
-# CODTECH Internship – Task 3: Real-Time Power BI Dashboard
+# CODTECH Internship – Real-Time Power BI Dashboard
 
-This repository contains my submission for Task 3 of the CODTECH Internship Program.
+This repository contains my submission for Real-Time Power BI Dashboard of the CODTECH Internship Program.
 
 ## File Included:
 -  `RealTimeDashboard_Task3.pdf` – A pdf with screenshots and explanation of building a live dashboard using Power BI and REST API integration.
